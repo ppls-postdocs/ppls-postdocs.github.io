@@ -9,8 +9,8 @@ var allpeople= [
      "website":"https://lscp.net/persons/martin/",
      "twitter":"https://twitter.com/jenaimarretin",
      "github":"https://github.com/a-martin",
-     "bio":"I rock.  What more is there to say?",
-     "subject":"Being great"
+     "bio":"Part of the ESRC project ‘Connecting cognitive biases and typological universals in syntax’. Affiliated with the <a href="http://www.lel.ed.ac.uk/cle/" target="_blank">Centre for Language Evolution</a>.",
+     "subject":"Linguistics"
 
     }
 ]
