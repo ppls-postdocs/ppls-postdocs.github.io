@@ -1,5 +1,14 @@
+/* Coolors Exported Palette - coolors.co/0fa3b1-fff8dd-f7a072-fcddf2-ff9b42 */
+
 body {
 	font-family:'Fira Sans', sans-serif;
+	color: #13505B;
+/*	background-color: #ff595e !important;
+*/}
+
+#awesome-nav {
+	background-color: #13505B !important;
+	color: #ff595e;
 }
 
 section {
@@ -49,6 +58,12 @@ section {
 	font-family:'Fira Mono', monospace;
 }
 
+.sepTitle {
+	border-bottom: 2px solid #0fa3b1;
+	padding-bottom: 0.5rem;
+	margin-bottom: 1.5rem;
+}
+
 .projTitle {
 	font-family:'Fira Mono', monospace;
 	margin-top:30%;
@@ -65,13 +80,50 @@ border-radius:.25rem;
 	    rgba(0, 0, 0, 0.5),
 	    rgba(0, 0, 0, 0.5)
 	  ),
-	  url('../img/soundsymbolism.png');
+	  url('../img/soundsymbolism.png')	;
 	background-size:cover;	
 
 }
 
 .jumbotron {
-	background-image: url("../img/castle.jpg");
+	background-image: url("../img/castle-blue.jpg");
+	background-size: cover;
+	color: #ff595e;
+	font-weight: bold;
+	padding-bottom: 2px;
+/*	min-height: 250px;
+*/	margin-bottom: 0px;
+}
+
+#fakejumbo {
+	background-image: url("../img/castle-blue.jpg");
+	background-size: cover;
+	color: #ff595e;
+/*	-webkit-text-stroke: 0.01px white;
+*/	padding-bottom: 2px;
+/*	min-height: 250px;
+*/	margin-bottom: 0px;
+	min-height: 250px;
+}	
+
+#bigTitle {
+	display: inline;
+}
+
+.navbar > a {
+	color: #ff595e;
+}
+
+a {
+	color: #ff595e;
+}
+
+h1 {
+	font-family: 'Fira Sans';
+}
+
+footer {
+	background-color: #13505B;
 }
 
 #rdImage {

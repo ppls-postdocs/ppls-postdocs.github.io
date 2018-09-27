@@ -25,34 +25,21 @@
  
 </head>
 <body>
-<!--<div class="container">-->
-	<div class="jumbotron">
-		<h2 class="monoTitle">Postdoctoral Researcher Network</h2>
-		<p class="monoTitle" id = "subHeader1">Philosophy, Psychology and Language Sciences</p>
-		<p class="monoTitle" id = "subHeader2" style="font-variant:small-caps;">University of Edinburgh</p>
+	<div id="fakejumbo"> <!-- class="jumbotron"> -->
+		<div class="container">
+		 	<div class="row">
+		 		<div class="col align-bottom" style="margin-top: 150px;">
+	 				<h2 class="monoTitle" style="font-weight: 999;">Postdoctoral Researcher Network</h2>
+					<p class="monoTitle" id = "subHeader1" style="font-weight: 999;">Philosophy, Psychology and Language Sciences</p>
+					<p class="monoTitle" id = "subHeader2" style="font-variant:small-caps; font-weight: 999;">University of Edinburgh</p>
+				</div>
+			</div>
+		</div>
     </div>
           
-<!--<section id="home" class="top_cont_outer">
-    <div class="row" style="padding-top:30px">
-        
-		  <div class="col-md-4 text-right">
-		   <img alt="" height="300px" src="img/secretsociety.jpg" class="logo rounded-circle mb-4">
-		  </div>
-		  <div class="col-md-8 text-left float-left align-middle">
-			<h2 class="monoTitle">Postdoctoral Researcher Network</h2>
-            
-            <hr style="width:50%;display:inline-block">
-            <p class="monoTitle" id = "subHeader1">Philosophy, Psychology and Language Sciences</p>
-            <p class="monoTitle" id = "subHeader2" style="font-variant:small-caps;">University of Edinburgh</p>
 
-          </div> 
-        </div>
-      </div>
-    </div>
-  </div>
-</section>-->
 
-<nav class="navbar navbar-expand-sm sticky-top navbar-dark bg-dark">
+<nav class="navbar navbar-expand-sm sticky-top navbar-dark bg-dark" id="awesome-nav">
   <a class="navbar-brand" href="#">Home</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#fullNavbar" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -83,15 +70,14 @@
 
 <section id="about">
 	<div class="container">
-	    <h2 class="text-center monoTitle">About Us</h2>
-		<hr>
+	    <h2 class="text-center sepTitle" >About Us</h2>
 		<div class="row">
 			<div class="col">
 				<p>We are an independent network of postdoctoral researchers in the school of philosophy, psychology and language sciences at the University of Edinburgh. Our goal is to support the research, career development, and mental health of fixed term research and teaching employees in the school. We aim to represent the interests of postdoctoral researchers at both the school and subject area level by holding events and providing resources.</p>
 				<p>Follow us on Twitter or check out or list of periodical and recurring events to get involved. To join the network, email </p>
 			</div>
 			<div class="col">
-				<a class="twitter-timeline" data-height="400" href="https://twitter.com/PPLS_postdocs?ref_src=twsrc%5Etfw">Tweets by PPLS_postdocs</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+				<a class="twitter-timeline" data-height="400" href="https://twitter.com/PPLS_postdocs?ref_src=twsrc%5Etfw" ></a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 			</div>
 		</div>
 	</div>
@@ -101,8 +87,7 @@
 
 <section id="people">
 	<div class="container">
-	    <h2 class="text-center">People</h2>
-		<hr>
+	    <h2 class="text-center sepTitle">People</h2>
 		<div class="row center-block">
 			<div class="card-deck people-deck">
   				<!--<div class="card">
@@ -123,50 +108,35 @@
 </section>
 <section id="events">
 	<div class="container">
-	    <h2 class="text-center">Events</h2>
-		<hr>
+	    <h2 class="text-center sepTitle">Events</h2>
+	    	<div class="row">
+				<div class="col">
+					<p>We meet on the last Friday of every month for a drink, usually at <a href="http://www.checkpointedinburgh.com" target="_blank">Checkpoint</a> on Bristo Place.</p>
+					<p>We also meet on the second Tuesday of every month at 10am for coffee and biscuits in the concourse of 7 George Square. </p>
+					<p>Feel free to pop by either of these events, even for only 10 minutes.</p>
+				</div>
+	    	</div>
 		<div class="row center-block">
 		</div>
 	</div>
 </section>
 <section id="resources">
 	<div class="container">
-	    <h2 class="text-center">Resources</h2>
-		<hr>
+	    <h2 class="text-center sepTitle">Resources</h2>
 		<div class="row center-block">
+			<div class="col">
+				<p>Please check back here as we update resources, for example statistical tools and online courses we’ve found useful.</p>
+			</div>
 		</div>
 	</div>
 </section>
 
 <!-- Footer -->
-<footer class="page-footer font-small grey">
+<footer class="page-footer font-small">
 
-  <!-- Footer Links -->
-  <div class="container-fluid text-center">
-
-    <!-- Grid row -->
-    <div class="row" style="padding-top:10px">
-
-      <!-- Grid column -->
-      <div class="col-md-12">
-
-        <!-- Content -->
-        <p>Built with <a href="https://getbootstrap.com/" target="_blank">Bootstrap.</p>
-        
-
-      </div>
-      <!-- Grid column -->
-
-  </div>
-  <!-- Footer Links -->
-
-  <!-- Copyright -->
-  <div class="footer-copyright text-center py-3">© 2018 PPLS Postdoc Network
-  </div>
-  <!-- Copyright -->
+  <div class="footer-copyright text-center py-3">© 2018 PPLS Postdoc Network</div>
 
 </footer>
-
 
 <!-- JQuery -->
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
