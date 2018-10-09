@@ -12,5 +12,13 @@ var allpeople= [
      "bio":'Part of the ESRC project ‘Connecting cognitive biases and typological universals in syntax’. Affiliated with the <a href="http://www.lel.ed.ac.uk/cle/" target="_blank">Centre for Language Evolution</a>.',
      "subject":"Linguistics"
 
+    },
+{"name":"Dr Cristina Grisot",
+     "website":"https://www.unige.ch/lettres/linguistique/collaborateurs/postdocs/cristina-grisot/",
+     "twitter":"",
+     "github":"",
+     "bio":'Funded by an Advanced Postdoctoral grant from the Swiss SNSF, working with Dr. Hannah Rohde experimental investigations of human processing of implicit and overtly marked temporal relations.',
+     "subject":"Linguistics"
+
     }
 ]
