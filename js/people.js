@@ -33,7 +33,7 @@ var allpeople= [
 	"website":"https://www.unige.ch/lettres/linguistique/collaborateurs/postdocs/cristina-grisot/",
 	"twitter":"",
 	"github":"",
-	"bio":'Funded by an Advanced Postdoctoral grant from the Swiss SNSF, working with Dr. Hannah Rohde on experimental investigations of human processing of implicit and overtly marked temporal relations.',
+	"bio":'Funded by an Advanced Postdoctoral grant from the Swiss SNSF, working with Dr Hannah Rohde on experimental investigations of human processing of implicit and overtly marked temporal relations.',
 	"subject":"Linguistics"
     },
     {
@@ -44,6 +44,22 @@ var allpeople= [
 	"github":"https://github.com/CarmenSaldana",
 	"bio":'Postdoctoral Research Assistant on the ESRC project ‘Evolution of Linguistic Complexity’ led by Prof. Kenny Smith. Affiliated with the <a href="http://www.lel.ed.ac.uk/cle/" target="_blank">Centre for Language Evolution</a>.',
      "subject":"Linguistics"
+    },
+    {
+	"name":"Dr Jia Loy",
+	"website":"https://jialoy.github.io/",
+	"twitter":"",
+	"github":"https://github.com/jialoy",
+	"bio":'Postdoc research assistant in the <a href="http://www.lel.ed.ac.uk/cle/" target="_blank">Centre for Language Evolution</a> on an ERC-funded project ‘Evolution of Linguistic Complexity’ led by Kenny Smith.',
+	"subject":"Linguistics"
+    },
+    {
+	"name":"Dr Stella Frank",
+	"website":"https://homepages.inf.ed.ac.uk/sfrank2/",
+	"twitter":"https://twitter.com/stellalalallets",
+	"github":"https://github.com/scfrank",
+	"bio":'Postdoc research assistant in the <a href="http://www.lel.ed.ac.uk/cle/" target="_blank">Centre for Language Evolution</a> on an ERC-funded project ‘Evolution of Linguistic Complexity’ led by Kenny Smith.',
+	"subject":"Computational Modeling"
     }
 ]
 
