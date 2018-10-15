@@ -27,5 +27,18 @@ var allpeople= [
 	"website":"https://www.ed.ac.uk/profile/raffaela-baechler",
 	"bio":'Funded by a postdoctoral grant (Forschungsstipendium) from the German DFG. Affiliated with the <a href="http://www.amc.lel.ed.ac.uk/" target="_blank">Angus McIntosh Centre for Historical Linguistics</a>.',
 	"subject":"Linguistics"
+<<<<<<< HEAD
     }
+=======
+    },
+    {
+	"name":"Dr Cristina Grisot",
+	"website":"https://www.unige.ch/lettres/linguistique/collaborateurs/postdocs/cristina-grisot/",
+	"twitter":"",
+	"github":"",
+	"bio":'Funded by an Advanced Postdoctoral grant from the Swiss SNSF, working with Dr. Hannah Rohde experimental investigations of human processing of implicit and overtly marked temporal relations.',
+	"subject":"Linguistics"
+    },
+>>>>>>> d6c10c953b005b75b4b2c72e7eb3357bed103d02
 ]
+
