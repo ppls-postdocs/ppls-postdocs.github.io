@@ -19,7 +19,7 @@ var allpeople= [
 	"website":"https://www.ed.ac.uk/profile/drewmaltschul",
 	"twitter":"https://twitter.com/dremalt",
 	"github":"https://github.com/dmaltschul",
-	"bio":'Postdoctoral fellow in cognitive epidemiology, and research associate with the MRC Data Pathfinder project: ‘Mental health within the family and between generations’. Affiliated with the <a href="https://www.ccace.ed.ac.uk/" target="_blank">Centre for Cognitive Ageing and Cognitive Epidemiology</a>. Studying cognition, personality, health, and hominoid evolution in large samples of humans and non-human primates.',
+	"bio":'Postdoctoral fellow in cognitive epidemiology, and research associate with the MRC Data Pathfinder project: ‘Mental health within the family and between generations’. Affiliated with the <a href="https://www.ccace.ed.ac.uk/" target="_blank">Centre for Cognitive Ageing and Cognitive Epidemiology</a>.',
      "subject":"Psychology"
     },
     {
