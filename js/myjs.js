@@ -1,5 +1,5 @@
 
-var personTemplate ='<div class="card %SUBJAREA"><div class="card-body"><h4 class="card-title">%NAME</h4><p>%SUBJAREA</p><p class="card-text">%BIO</p></div><div class="card-footer"><small class="text-muted text-center"><a href="%EXTLINK" target="_blank">Website</a> | <a href="%TWITTER" target="_blank">Twitter</a></small></div></div>'
+var personTemplate ='<div class="card %SUBJAREA"><div class="card-body"><h4 class="card-title">%NAME</h4><p>%SUBJAREA</p><p class="card-text">%BIO</p></div><div class="card-footer"><small class="text-muted text-center"><a href="%EXTLINK" target="_blank"><span><i class="fa fa-globe"></i></span></a> &nbsp&nbsp <a href="%TWITTER" target="_blank"><span><i class="fa fa-twitter"></i></span></a> &nbsp&nbsp <a href="%GITHUB" target="_blank"><span><i class="fa fa-github"></i></span></a></small></div></div>'
 var ssFlipped =false;
 var rdFlipped=false;
 var gameFlipped=false;
@@ -44,8 +44,22 @@ $(document).ready(function() {
 		var person=allpeople[i]
 		var thisPerson=personTemplate.replace("%NAME",person.name)
 		thisPerson=thisPerson.replace(/%SUBJAREA/g, person.subject);
-		thisPerson=thisPerson.replace("%EXTLINK",person.website);
-		thisPerson=thisPerson.replace("%TWITTER",person.twitter)
+    if (person.website) {
+      thisPerson=thisPerson.replace("%EXTLINK",person.website);
+    }
+    if (person.twitter) {
+      thisPerson=thisPerson.replace("%TWITTER",person.twitter)
+    }
+
+    if (person.github) {
+      thisPerson=thisPerson.replace("%GITHUB",person.github)
+    }
+
+    if (person.osf) {
+
+    }
+		
+		
 		thisPerson=thisPerson.replace("%BIO",person.bio)
 		$(".people-deck").append(thisPerson)
 
