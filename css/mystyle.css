@@ -11,8 +11,17 @@ body {
 	color: #ff595e;
 }
 
+.fa {
+	font-size:20px;
+}
+
 section {
 	padding-top:10vh;
+}
+
+.card {
+	min-width:25%;
+	margin-top:10px;
 }
 
 .teachCard {
