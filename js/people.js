@@ -35,6 +35,14 @@ var allpeople= [
 	"github":"",
 	"bio":'Funded by an Advanced Postdoctoral grant from the Swiss SNSF, working with Dr. Hannah Rohde experimental investigations of human processing of implicit and overtly marked temporal relations.',
 	"subject":"Linguistics"
+    },
+    {
+	"name":"Dr Carmen Saldana",
+	"website":"https://sites.google.com/site/ccsaldanaevoling/",
+	"twitter":"https://twitter.com/hatorada",
+	"github":"https://github.com/CarmenSaldana",
+	"bio":'Postdoctoral Research Assistant on the ESRC project ‘Evolution of Linguistic Complexity’ led by Prof. Kenny Smith. Affiliated with the <a href="http://www.lel.ed.ac.uk/cle/" target="_blank">Centre for Language Evolution</a>.',
+     "subject":"Linguistics"
     }
 ]
 
