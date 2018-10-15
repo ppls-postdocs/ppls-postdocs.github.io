@@ -33,7 +33,7 @@ var allpeople= [
 	"website":"https://www.unige.ch/lettres/linguistique/collaborateurs/postdocs/cristina-grisot/",
 	"twitter":"",
 	"github":"",
-	"bio":'Funded by an Advanced Postdoctoral grant from the Swiss SNSF, working with Dr. Hannah Rohde experimental investigations of human processing of implicit and overtly marked temporal relations.',
+	"bio":'Funded by an Advanced Postdoctoral grant from the Swiss SNSF, working with Dr. Hannah Rohde on experimental investigations of human processing of implicit and overtly marked temporal relations.',
 	"subject":"Linguistics"
     },
     {
