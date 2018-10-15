@@ -59,7 +59,7 @@ var allpeople= [
 	"twitter":"https://twitter.com/stellalalallets",
 	"github":"https://github.com/scfrank",
 	"bio":'Postdoc research assistant in the <a href="http://www.lel.ed.ac.uk/cle/" target="_blank">Centre for Language Evolution</a> on an ERC-funded project ‘Evolution of Linguistic Complexity’ led by Kenny Smith.',
-	"subject":"Computational Modeling"
+	"subject":"Linguistics"
     }
 ]
 
