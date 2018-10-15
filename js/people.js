@@ -20,5 +20,11 @@ var allpeople= [
      "bio":'Funded by an Advanced Postdoctoral grant from the Swiss SNSF, working with Dr. Hannah Rohde experimental investigations of human processing of implicit and overtly marked temporal relations.',
      "subject":"Linguistics"
 
-    }
+    },
+{"name":"Dr Raffaela Baechler",
+ "website":"https://www.ed.ac.uk/profile/raffaela-baechler",
+ "bio":'Funded by a postdoctoral grant (Forschungsstipendium) from the German DFG. Affiliated with the <a href="http://www.amc.lel.ed.ac.uk/" target="_blank">Angus McIntosh Centre for Historical Linguistics</a>.',
+ "subject":"Linguistics",
+ "twitter":"",
+ "github":""
 ]
