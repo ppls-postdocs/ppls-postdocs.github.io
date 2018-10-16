@@ -1,5 +1,9 @@
 /* Coolors Exported Palette - coolors.co/0fa3b1-fff8dd-f7a072-fcddf2-ff9b42 */
 
+iframe.twitter-tweet {
+  max-width: 315px !important;
+}
+
 body {
 	font-family:'Fira Sans', sans-serif;
 	color: #13505B;
