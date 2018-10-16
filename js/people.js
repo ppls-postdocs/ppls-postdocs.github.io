@@ -60,6 +60,28 @@ var allpeople= [
 	"github":"https://github.com/scfrank",
 	"bio":'Postdoc research assistant in the <a href="http://www.lel.ed.ac.uk/cle/" target="_blank">Centre for Language Evolution</a> on an ERC-funded project ‘Evolution of Linguistic Complexity’ led by Kenny Smith.',
 	"subject":"Linguistics"
+    },
+    {
+	"name":"Dr Zoe Schlueter",
+	"website":"http://zschluet.wixsite.com/home",
+	"twitter":"https://twitter.com/linguistzoe",
+	"bio":'Postdoctoral Research Assistant on the Leverhulme-funded project ‘Bilingualism, pragmatic enrichment and reasoning biases’ led by Prof Chris Cummins and Prof Antonella Sorace.',
+	"subject":"Linguistics"
+    },
+    {
+	"name":"Dr Madeleine Long",
+	"website":"https://drmlong.github.io",
+	"twitter":"https://twitter.com/PhDLing",
+	"github":"https://github.com/drmlong",
+	"bio":'Working on the project ‘Linguistic and cognitive factors in effective referential communication’ with Paula Rubio-Fernandez (PI) and Hannah Rohde (Co-I).',
+	"subject":"Linguistics"
+    },
+    {
+	"name":"Dr Marieke Schouwstra",
+	"website":"https://mariekeschouwstra.github.io/",
+	"twitter":"https://twitter.com/notnotalinguist",
+	"bio":'British Academy postdoctoral fellow, working on the project "Simulating Conventionalisation in the lab: From cognitive biases to language structure". Affiliated with the <a href="http://www.lel.ed.ac.uk/cle/" target="_blank">Centre for Language Evolution</a>.',
+	"subject":"Linguistics"
     }
 ]
 
