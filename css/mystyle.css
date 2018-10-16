@@ -1,24 +1,7 @@
 /* Coolors Exported Palette - coolors.co/0fa3b1-fff8dd-f7a072-fcddf2-ff9b42 */
 
-.twitter-timeline {
-  max-width: 100%;
-  max-height: 1000px;
-}
-.fa {
-  font-size: 25px;
-  color: #FFFFFF;
-}
-.panel-title {
- font-size: 25px; 
- color: #FFFFFF;
- font-family: 'Open Sans', sans-serif;
-}
-.panel-heading {
- background-color: #1da1f2 !important;;
- color: #1da1f2 !important;;
-}
-.panel {
- margin-top: 25px;
+#twitter-widget-0 {
+	min-width:400px;
 }
 
 body {
