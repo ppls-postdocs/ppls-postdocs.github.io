@@ -3,7 +3,6 @@ var allpeople= [
 	"name":"Dr Christine Cuskley",
 	"website":"https://ccuskley.github.io",
 	"twitter":"https://twitter.com/nerdpro",
-	"github":"https://github.com/ccuskley",
 	"bio":'Funded by a <a href="https://britac.ac.uk" target="_blank">British Academy</a> Postdoctoral Fellowship through March 2019. Affiliated with the <a href="http://www.lel.ed.ac.uk/cle/" target="_blank">Centre for Language Evolution</a>.',
 	"subject":"Linguistics"
     },
@@ -32,22 +31,35 @@ var allpeople= [
     {
 	"name":"Dr Cristina Grisot",
 	"website":"https://www.unige.ch/lettres/linguistique/collaborateurs/postdocs/cristina-grisot/",
-	"bio":'Funded by an Advanced Postdoctoral grant from the Swiss SNSF, working with Dr. Hannah Rohde experimental investigations of human processing of implicit and overtly marked temporal relations.',
+	"twitter":"",
+	"github":"",
+	"bio":'Funded by an Advanced Postdoctoral grant from the Swiss SNSF, working with Dr Hannah Rohde on experimental investigations of human processing of implicit and overtly marked temporal relations.',
 	"subject":"Linguistics"
     },
     {
 	"name":"Dr Carmen Saldana",
 	"website":"https://sites.google.com/site/ccsaldanaevoling/",
 	"twitter":"https://twitter.com/hatorada",
+	"OSF": "https://osf.io/3zm7y/",
 	"github":"https://github.com/CarmenSaldana",
 	"bio":'Postdoctoral Research Assistant on the ESRC project ‘Evolution of Linguistic Complexity’ led by Prof. Kenny Smith. Affiliated with the <a href="http://www.lel.ed.ac.uk/cle/" target="_blank">Centre for Language Evolution</a>.',
      "subject":"Linguistics"
     },
-    {"name":"Dr Marieke Schouwstra",
-     "website":"https://mariekeschouwstra.github.io/",
-     "twitter":"https://twitter.com/notnotalinguist",
-     "bio":'British Academy postdoctoral fellow, working on the project "Simulating Conventionalisation in the lab: From cognitive biases to language structure". Affiliated with the <a href="http://www.lel.ed.ac.uk/cle/" target="_blank">Centre for Language Evolution</a>.',
-     "subject":"Linguistics"
- }
+    {
+	"name":"Dr Jia Loy",
+	"website":"https://jialoy.github.io/",
+	"twitter":"",
+	"github":"https://github.com/jialoy",
+	"bio":'Postdoc research assistant in the <a href="http://www.lel.ed.ac.uk/cle/" target="_blank">Centre for Language Evolution</a> on an ERC-funded project ‘Evolution of Linguistic Complexity’ led by Kenny Smith.',
+	"subject":"Linguistics"
+    },
+    {
+	"name":"Dr Stella Frank",
+	"website":"https://homepages.inf.ed.ac.uk/sfrank2/",
+	"twitter":"https://twitter.com/stellalalallets",
+	"github":"https://github.com/scfrank",
+	"bio":'Postdoc research assistant in the <a href="http://www.lel.ed.ac.uk/cle/" target="_blank">Centre for Language Evolution</a> on an ERC-funded project ‘Evolution of Linguistic Complexity’ led by Kenny Smith.',
+	"subject":"Linguistics"
+    }
 ]
 
