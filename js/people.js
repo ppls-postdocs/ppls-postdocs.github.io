@@ -92,6 +92,13 @@ var allpeople= [
 	"bio":'Part of the ERC project ‘Syntax shaped by cognition: transforming theories of
 syntactic systems through laboratory experiments’. Affiliated with the <a href="http://www.lel.ed.ac.uk/cle/" target="_blank">Centre for Language Evolution</a>.',
 	"subject":"Linguistics"
+    },
+    {
+	"name":"Dr Alpo Honkapohja",
+	"website":"https://www.ed.ac.uk/profile/alpo-honkapohja",
+	"orcid":"https://orcid.org/0000-0002-9724-5180",     
+	"bio":'Alpo Honkapohja is in Edinburgh working on a postdoctoral project called: A Corpus Approach to Manuscript Abbreviations (CAMA). The project is funded by the Swiss National National Science Foundation (SNF) for 2017-2020.', 
+	"subject":"Linguistics"
     }
 ]
 
