@@ -89,8 +89,7 @@ var allpeople= [
 	"website":"http://mmaldonado.psycholinguae.fr",
 	"twitter":"https://twitter.com/mormaldo",
 	"github":"https://github.com/moramaldonado/",
-	"bio":'Part of the ERC project ‘Syntax shaped by cognition: transforming theories of
-syntactic systems through laboratory experiments’. Affiliated with the <a href="http://www.lel.ed.ac.uk/cle/" target="_blank">Centre for Language Evolution</a>.',
+	"bio":'Part of the ERC project ‘Syntax shaped by cognition: transforming theories of syntactic systems through laboratory experiments’. Affiliated with the <a href="http://www.lel.ed.ac.uk/cle/" target="_blank">Centre for Language Evolution</a>.',
 	"subject":"Linguistics"
     },
     {
