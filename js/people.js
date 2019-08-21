@@ -120,6 +120,12 @@ var pastandpresent= [
     "current":1,
     "bio":'Leverhulme Early Career Fellow at the <a href="http://www.amc.lel.ed.ac.uk/" target="_blank">Angus McIntosh Centre for Historical Linguistics</a> working on a <a href="https://benmolineaux.github.io/" target="_blank">Corpus of Historical Mapudungun</a>.',
     "github":"http://github.com/benmolineaux"
+    },
+    {
+    "name":"Dr Laura Andreea Sterian",
+    "subject":"Linguistics",
+    "current":1,
+    "bio":'British Academy postdoctoral fellow working on the project “True Versus intrusive Resumption: A Cross-Linguistic Investigation”.',
     }
 ]
 
