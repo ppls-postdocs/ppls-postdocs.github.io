@@ -1,11 +1,12 @@
-var allpeople= [
+var pastandpresent= [
     {
 	"name":"Dr Christine Cuskley",
 	"website":"https://ccuskley.github.io",
 	"twitter":"https://twitter.com/nerdpro",
 	"github":"https://github.com/ccuskley",
 	"bio":'Funded by a <a href="https://britac.ac.uk" target="_blank">British Academy</a> Postdoctoral Fellowship through March 2019. Affiliated with the <a href="http://www.lel.ed.ac.uk/cle/" target="_blank">Centre for Language Evolution</a>.',
-	"subject":"Linguistics"
+	"subject":"Linguistics",
+	"current":0
     },
     {
 	"name":"Dr Alexander Martin",
@@ -13,7 +14,8 @@ var allpeople= [
 	"twitter":"https://twitter.com/jenaimarretin",
 	"github":"https://github.com/a-martin",
 	"bio":'Part of the ESRC project ‘Connecting cognitive biases and typological universals in syntax’. Affiliated with the <a href="http://www.lel.ed.ac.uk/cle/" target="_blank">Centre for Language Evolution</a>.',
-	"subject":"Linguistics"
+	"subject":"Linguistics",
+	"current":1
     },
     {
 	"name":"Dr Drew Altschul",
@@ -21,13 +23,15 @@ var allpeople= [
 	"twitter":"https://twitter.com/dremalt",
 	"github":"https://github.com/dmaltschul",
 	"bio":'Postdoctoral fellow in cognitive epidemiology, and research associate with the MRC Data Pathfinder project: ‘Mental health within the family and between generations’. Affiliated with the <a href="https://www.ccace.ed.ac.uk/" target="_blank">Centre for Cognitive Ageing and Cognitive Epidemiology</a>.',
-     "subject":"Psychology"
+    "subject":"Psychology",
+    "current":1
     },
     {
 	"name":"Dr Raffaela Baechler",
 	"website":"https://www.ed.ac.uk/profile/raffaela-baechler",
 	"bio":'Funded by a postdoctoral grant (Forschungsstipendium) from the German DFG. Affiliated with the <a href="http://www.amc.lel.ed.ac.uk/" target="_blank">Angus McIntosh Centre for Historical Linguistics</a>.',
-	"subject":"Linguistics"
+	"subject":"Linguistics",
+	"current":0
     },
     {
 	"name":"Dr Cristina Grisot",
@@ -35,7 +39,8 @@ var allpeople= [
 	"twitter":"",
 	"github":"",
 	"bio":'Funded by an Advanced Postdoctoral grant from the Swiss SNSF, working with Dr Hannah Rohde on experimental investigations of human processing of implicit and overtly marked temporal relations.',
-	"subject":"Linguistics"
+	"subject":"Linguistics",
+	"current":1
     },
     {
 	"name":"Dr Carmen Saldana",
@@ -44,7 +49,8 @@ var allpeople= [
 	"OSF": "https://osf.io/3zm7y/",
 	"github":"https://github.com/CarmenSaldana",
 	"bio":'Postdoctoral Research Assistant on the ESRC project ‘Evolution of Linguistic Complexity’ led by Prof. Kenny Smith. Affiliated with the <a href="http://www.lel.ed.ac.uk/cle/" target="_blank">Centre for Language Evolution</a>.',
-     "subject":"Linguistics"
+     "subject":"Linguistics",
+     "current":0
     },
     {
 	"name":"Dr Jia Loy",
@@ -52,7 +58,8 @@ var allpeople= [
 	"twitter":"",
 	"github":"https://github.com/jialoy",
 	"bio":'Postdoc research assistant in the <a href="http://www.lel.ed.ac.uk/cle/" target="_blank">Centre for Language Evolution</a> on an ERC-funded project ‘Evolution of Linguistic Complexity’ led by Kenny Smith.',
-	"subject":"Linguistics"
+	"subject":"Linguistics",
+	"current":1
     },
     {
 	"name":"Dr Stella Frank",
@@ -60,14 +67,16 @@ var allpeople= [
 	"twitter":"https://twitter.com/stellalalallets",
 	"github":"https://github.com/scfrank",
 	"bio":'Postdoc research assistant in the <a href="http://www.lel.ed.ac.uk/cle/" target="_blank">Centre for Language Evolution</a> on an ERC-funded project ‘Evolution of Linguistic Complexity’ led by Kenny Smith.',
-	"subject":"Linguistics"
+	"subject":"Linguistics",
+	"current":1
     },
     {
 	"name":"Dr Zoe Schlueter",
 	"website":"http://zschluet.wixsite.com/home",
 	"twitter":"https://twitter.com/linguistzoe",
 	"bio":'Postdoctoral Research Assistant on the Leverhulme-funded project ‘Bilingualism, pragmatic enrichment and reasoning biases’ led by Prof Chris Cummins and Prof Antonella Sorace.',
-	"subject":"Linguistics"
+	"subject":"Linguistics",
+	"current":0
     },
     {
 	"name":"Dr Madeleine Long",
@@ -75,14 +84,16 @@ var allpeople= [
 	"twitter":"https://twitter.com/PhDLing",
 	"github":"https://github.com/drmlong",
 	"bio":'Working on the project ‘Linguistic and cognitive factors in effective referential communication’ with Paula Rubio-Fernandez (PI) and Hannah Rohde (Co-I).',
-	"subject":"Linguistics"
+	"subject":"Linguistics",
+	"current":0
     },
     {
 	"name":"Dr Marieke Schouwstra",
 	"website":"https://mariekeschouwstra.github.io/",
 	"twitter":"https://twitter.com/notnotalinguist",
 	"bio":'British Academy postdoctoral fellow, working on the project "Simulating Conventionalisation in the lab: From cognitive biases to language structure". Affiliated with the <a href="http://www.lel.ed.ac.uk/cle/" target="_blank">Centre for Language Evolution</a>.',
-	"subject":"Linguistics"
+	"subject":"Linguistics",
+	"current":1
     },
     {
 	"name":"Dr Mora Maldonado",
@@ -90,14 +101,26 @@ var allpeople= [
 	"twitter":"https://twitter.com/mormaldo",
 	"github":"https://github.com/moramaldonado/",
 	"bio":'Part of the ERC project ‘Syntax shaped by cognition: transforming theories of syntactic systems through laboratory experiments’. Affiliated with the <a href="http://www.lel.ed.ac.uk/cle/" target="_blank">Centre for Language Evolution</a>.',
-	"subject":"Linguistics"
+	"subject":"Linguistics",
+	"current":1
     },
     {
 	"name":"Dr Alpo Honkapohja",
 	"website":"https://www.ed.ac.uk/profile/alpo-honkapohja",
 	"orcid":"https://orcid.org/0000-0002-9724-5180",     
 	"bio":'Alpo Honkapohja is in Edinburgh working on a postdoctoral project called: A Corpus Approach to Manuscript Abbreviations (CAMA). The project is funded by the Swiss National National Science Foundation (SNF) for 2017-2020.', 
-	"subject":"Linguistics"
+	"subject":"Linguistics",
+	"current":1
+    },
+    {
+    "name":"Dr Benjamin Molineaux",
+    "website":"http://www.homepages.ed.ac.uk/bmolinea",
+    "twitter":"https://twitter.com/benmolineaux",
+    "subject":"Linguistics",
+    "current":1,
+    "bio":'Leverhulme Early Career Fellow at the <a href="http://www.amc.lel.ed.ac.uk/" target="_blank">Angus McIntosh Centre for Historical Linguistics</a> working on a <a href="https://benmolineaux.github.io/" target="_blank">Corpus of Historical Mapudungun</a>.',
+    "github":"http://github.com/benmolineaux"
     }
 ]
 
+var allpeople= pastandpresent.filter(d => d.current === 1)
