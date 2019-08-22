@@ -91,7 +91,7 @@ var pastandpresent= [
 	"name":"Dr Marieke Schouwstra",
 	"website":"https://mariekeschouwstra.github.io/",
 	"twitter":"https://twitter.com/notnotalinguist",
-	"bio":'British Academy postdoctoral fellow, working on the project "Simulating Conventionalisation in the lab: From cognitive biases to language structure". Affiliated with the <a href="http://www.lel.ed.ac.uk/cle/" target="_blank">Centre for Language Evolution</a>.',
+	"bio":'British Academy postdoctoral fellow, working on the project “Simulating Conventionalisation in the lab: From cognitive biases to language structure”. Affiliated with the <a href="http://www.lel.ed.ac.uk/cle/" target="_blank">Centre for Language Evolution</a>.',
 	"subject":"Linguistics",
 	"current":1
     },
@@ -126,6 +126,21 @@ var pastandpresent= [
     "subject":"Linguistics",
     "current":1,
     "bio":'British Academy postdoctoral fellow working on the project “True Versus intrusive Resumption: A Cross-Linguistic Investigation”.',
+    },
+    {
+    "name":"Dr Alex Mitchell",
+    "twitter":"https://twitter.com/ag_mitchell",
+    "github":"https://github.com/amitchell2",
+    "subject":"Psychology",
+    "current":1,
+    "bio":"I am a postdoctoral research fellow working with Prof&nbsp;Rob McIntosh and my research focuses on hand-eye coordination, proprioception and attention in clinical populations."
+    },
+    {
+    "name":"Dr Joshua Rowan Thorpe",
+    "website":"https://www.jrthorpe.com",
+    "current":1,
+    "subject":"Philosophy",
+    "bio":"I am primarily an epistemologist, but I also work on philosophy of mind and philosophy of language. Much of my work focuses on the problem of external world scepticism."
     }
 ]
 
