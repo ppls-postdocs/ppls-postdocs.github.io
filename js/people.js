@@ -141,6 +141,13 @@ var pastandpresent= [
     "current":1,
     "subject":"Philosophy",
     "bio":"I am primarily an epistemologist, but I also work on philosophy of mind and philosophy of language. Much of my work focuses on the problem of external world scepticism."
+    },
+    {
+    "name":"Dr Sophie Keeling",
+    "subject":"Philosophy",
+    "bio":"Analysis research fellow",
+    "website":"https://sites.google.com/view/sophie-keeling/home",
+    "current":1
     }
 ]
 
