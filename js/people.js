@@ -148,6 +148,14 @@ var pastandpresent= [
     "bio":"Analysis research fellow",
     "website":"https://sites.google.com/view/sophie-keeling/home",
     "current":1
+    },
+    {
+    "name":"Dr Matthew Spike",
+    "website":"https://sites.google.com/site/matspike/",
+    "twitter":"https://twitter.com/matspike",
+    "bio":"Teaching Fellow in Language Evolution and Acquisition. I use models from game theory, information theory, evolutionary theory, and cognitive science to think about conventionality, structure, and complexity in language.",
+    "subject":"Linguistics",
+    "current":1
     }
 ]
 
