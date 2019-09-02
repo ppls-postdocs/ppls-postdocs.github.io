@@ -156,6 +156,14 @@ var pastandpresent= [
     "bio":"Teaching Fellow in Language Evolution and Acquisition. I use models from game theory, information theory, evolutionary theory, and cognitive science to think about conventionality, structure, and complexity in language.",
     "subject":"Linguistics",
     "current":1
+    },
+    {
+    "name":"Dr Rebekka Puderbaugh",
+    "website":"https://sites.google.com/view/rebekkap",
+    "twitter":"https://twitter.com/pewterbaw",
+    "bio":"Teaching Fellow in Phonetics and Laboratory Phonology. I’m interested in developing tools for creating detailed acoustic descriptions of phonological systems, glottal stops and phonation in all forms, and linguistic pedagogy.",
+    "subject":"Linguistics",
+    "current":1
     }
 ]
 
