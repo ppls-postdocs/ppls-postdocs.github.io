@@ -164,6 +164,14 @@ var pastandpresent= [
     "bio":"Teaching Fellow in Phonetics and Laboratory Phonology. I’m interested in developing tools for creating detailed acoustic descriptions of phonological systems, glottal stops and phonation in all forms, and linguistic pedagogy.",
     "subject":"Linguistics",
     "current":1
+    },
+    {
+    "name":"Dr Jade Fletcher",
+    "website":"https://jadefletcher.weebly.com/",
+    "subject":"Philosophy",
+    "twitter":"https://twitter.com/Jade_E_Fletcher",
+    "bio":"Teaching Fellow in Philosophy. I work on metaphysics, philosophy of language, and feminist philosophy, and I am particularly interested in places where these areas overlap.",
+    "current":1
     }
 ]
 
