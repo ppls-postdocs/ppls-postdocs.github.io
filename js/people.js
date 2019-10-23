@@ -172,6 +172,13 @@ var pastandpresent= [
     "twitter":"https://twitter.com/Jade_E_Fletcher",
     "bio":"Teaching Fellow in Philosophy. I work on metaphysics, philosophy of language, and feminist philosophy, and I am particularly interested in places where these areas overlap.",
     "current":1
+    },
+    {
+    "name":"Dr James Openshaw",
+    "website":"www.jamesopenshaw.com",
+    "subject":"Philosophy",
+    "bio":"Teaching Fellow in Philopsophy. I work in philosophy of mind and philosophy of language on problems concerning intentionality, and in particular on the phenomenon of <i>singular thought</i>.",
+    "current":1
     }
 ]
 
