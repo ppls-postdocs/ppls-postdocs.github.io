@@ -107,8 +107,8 @@ var pastandpresent= [
     {
 	"name":"Dr Alpo Honkapohja",
 	"website":"https://www.ed.ac.uk/profile/alpo-honkapohja",
-	"orcid":"https://orcid.org/0000-0002-9724-5180",     
-	"bio":'Alpo Honkapohja is in Edinburgh working on a postdoctoral project called: A Corpus Approach to Manuscript Abbreviations (CAMA). The project is funded by the Swiss National National Science Foundation (SNF) for 2017-2020.', 
+	"orcid":"https://orcid.org/0000-0002-9724-5180",
+	"bio":'Alpo Honkapohja is in Edinburgh working on a postdoctoral project called: A Corpus Approach to Manuscript Abbreviations (CAMA). The project is funded by the Swiss National National Science Foundation (SNF) for 2017-2020.',
 	"subject":"Linguistics",
 	"current":1
     },
@@ -171,13 +171,6 @@ var pastandpresent= [
     "subject":"Philosophy",
     "twitter":"https://twitter.com/Jade_E_Fletcher",
     "bio":"Teaching Fellow in Philosophy. I work on metaphysics, philosophy of language, and feminist philosophy, and I am particularly interested in places where these areas overlap.",
-    "current":1
-    },
-    {
-    "name":"Dr James Openshaw",
-    "website":"www.jamesopenshaw.com",
-    "subject":"Philosophy",
-    "bio":"Teaching Fellow in Philopsophy. I work in philosophy of mind and philosophy of language on problems concerning intentionality, and in particular on the phenomenon of <i>singular thought</i>.",
     "current":1
     }
 ]
